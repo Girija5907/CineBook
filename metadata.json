@@ -1,0 +1,6 @@
+{
+  "name": "CineBook",
+  "description": "Premium movie ticket booking experience with real-time interactive seat selection, showtime filters, and instant digital tickets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
